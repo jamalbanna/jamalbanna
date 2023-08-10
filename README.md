@@ -11,7 +11,7 @@ I've been interested in problem solving since I was a kid. I've started my unive
 *   🚀  I'm currently working on [A Delphi VLC app that connects between Woocommerce and ElevateDB for businesses that have both physical and online stores](http://https://github.com/jamalbanna/cdata)
 *   🧠  I'm learning Data Science
 *   🤝  I'm open to collaborating on any challenging and new project ideas/technologies
-*   ⚡  Spicy food is my favorite### Skills 
+*   ⚡  Spicy food is my favorite
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
