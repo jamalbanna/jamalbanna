@@ -1,8 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jamal
-=============================================================================================================================
-
-Full-Stack Web Developer
-------------------------
+![Header](./your-header-image-name.png)
 
 I've been interested in problem solving since I was a kid. I've started my university journey as a Civil Engineer where I took a intro to programming in C++ my first semester. This has reflected my love and ability to use my problem solving skills in programming. Then after my first semester I decided to switch to Mechatronics engineering. After 1.5 years in Mechatronics engineering, many extracurricular programming courses and a Full-stack Web Development internship, I decided to pursue the full programming experience by switching my major to Computer Science. I have just finished my first year of computer science with a 90/100 cumulative average and being elected the president of the Computer Science Student Society at my university. Not only that but I have decided to step more out of my comfort zone and become a member in AIESEC in Lebanon where I get to challenge myself and improve my leadership skills. I'm also currently an intern at Profiles Software where I get to develop Delphi apps. Delphi was a new and challenging concept to me but I have after one week beaten the learning curve :). I am open to learn on collaborate on anything that might be challenging for me.
 
@@ -13,6 +9,9 @@ I've been interested in problem solving since I was a kid. I've started my unive
 *   🤝  I'm open to collaborating on any challenging and new project ideas/technologies
 *   ⚡  Spicy food is my favorite
 <p align="left">
+  <p><h1>Programming Skills</h1>
+  
+  </p>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
