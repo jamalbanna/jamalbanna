@@ -9,11 +9,11 @@
 
 ###
 
-<p align="left">Programming languages</p>
+<p align="center">Programming languages</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -29,11 +29,11 @@
 
 ###
 
-<p align="left">Front-End</p>
+<p align="center">Front-End</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -53,7 +53,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
@@ -67,11 +67,11 @@
 
 ###
 
-<p align="left">Data Science</p>
+<p align="center">Data Science</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
@@ -85,11 +85,11 @@
 
 ###
 
-<p align="left">Other</p>
+<p align="center">Other</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
@@ -105,7 +105,7 @@
 
 ###
 
-<p align="left">Let's Connect</p>
+<p align="center">Let's Connect</p>
 
 ###
 
@@ -121,8 +121,3 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/jamalbanna/jamalbanna/output/snake.svg" alt="Snake animation" />
-
-###
