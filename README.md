@@ -67,7 +67,7 @@
 
 ###
 
-<p align="center">Data Science - AI</p>
+<p align="center">Data Science & AI</p>
 
 ###
 
